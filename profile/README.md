@@ -6,7 +6,7 @@ Crimson Desert Mod Manager is a standalone tool designed to apply byte-level pat
 
 ## 🔗 Get the Latest Release
 
-- [💾 Releases Page]() = `*Latest Release as of now*`
+- [💾 Releases Page](https://github.com/Crimson-Desert-Mod-Manager/.github/releases/) = `*Latest Release as of now*`
 
 ---
 
